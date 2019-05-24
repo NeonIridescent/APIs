@@ -1,9 +1,11 @@
 {
 	"PixivLinks" : [
 		{
+			"First" : "True",
 			"Link" : "https://i.pximg.net/img-master/img/2019/05/14/20/47/59/74727471_p0_master1200.jpg"
 		},
 		{
+			"First" : "False",
 			"Link" : "https://i.pximg.net/img-master/img/2019/04/22/04/34/36/74322106_p0_master1200.jpg"
 		}
 	]
